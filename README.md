@@ -7,10 +7,10 @@ This repository is meant to act as a guide for runners of the game Neon-Abyss. D
 
 **Below is a list of all available documentation currently:**
 * Run Documentation:
-  * [Random Seed Argus New File](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/RunStrats/Random%20Seed%20Argus%20New%20File)
-  * [Set Seed Argus](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/RunStrats/Set%20Seed%20Argus)
+  * [Random Seed Argus New File](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/RunStrats/Random%20Seed%20Argus%20New%20File.md)
+  * [Set Seed Argus](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/RunStrats/Set%20Seed%20Argus.md)
 
 * Science Documentation:
-  * [Glitches and Exploits](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/Science/Glitches%20and%20Exploits)
-  * [Stats](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/Science/Stats)
+  * [Glitches and Exploits](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/Science/Glitches%20and%20Exploits.md)
+  * [Stats](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/Science/Stats.md)
   * [Boss Strats Folder](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/tree/main/Science/Boss%20Strats)
