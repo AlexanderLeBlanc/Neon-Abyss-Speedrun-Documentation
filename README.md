@@ -14,3 +14,6 @@ This repository is meant to act as a guide for runners of the game Neon-Abyss. D
   * [Glitches and Exploits](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/Science/Glitches%20and%20Exploits.md)
   * [Stats](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/blob/main/Science/Stats.md)
   * [Boss Strats Folder](https://github.com/AlexanderLeBlanc/Neon-Abyss-Speedrun-Documentation/tree/main/Science/Boss%20Strats)
+
+
+**__[Client Downpatcher from MrBlue32](https://github.com/TheNickRyan/Neon-Abyss-Downpatcher)__**
